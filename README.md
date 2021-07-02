@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mahdi Ebrahimi
+- 👋 Mahdi Ebrahimi
 - 🌐 Iran, Tehran ***🇮🇷***
 - 🐍 Python
 - 📫 mahdiebi.exe@gmail.com
