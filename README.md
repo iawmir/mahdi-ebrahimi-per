@@ -3,7 +3,7 @@
 - 🐍 Python
 - 📫 mahdiebi.exe@gmail.com
 - 📱 instagram @ 1_suree_1
-- 📱 Linkedin  @ mahdi-ebrahimi
+- 📱 Linkedin  linkedin.com/in/mahdi-ebrahimi-23381a203
 
 <!---
 mahdi-ebrahimi-per/mahdi-ebrahimi-per is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
