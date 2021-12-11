@@ -3,6 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=15C4DB&size=30&lines=it's+Mahdi%F0%9F%91%8B%F0%9F%8F%BC;Python%F0%9F%90%8D;C%2B%2B%F0%9F%92%80;AI%F0%9F%A4%96;IoT%F0%9F%8C%90)](https://git.io/typing-svg)
 
 <p align="center">
+</a>
+ <a href = "https://discord.gg/AgPKAnWn"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="70" /></a>
+</p>
+
+<p align="center">
 <a href="https://www.linkedin.com/in/mahdi-ebrahimi-23381a203/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="lin_ovindu" width="60" /></a>  
 <a href="https://www.instagram.com/mahdiebi.dev/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="insta_ovindu" width="60" /></a>
  <a href = "mailto:%20mahdiebi.exe@gmail.com"><img align="center" src="https://img.icons8.com/bubbles/50/000000/gmail.png" width="60" /></a>
