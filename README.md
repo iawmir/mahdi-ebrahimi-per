@@ -34,6 +34,9 @@
 [<img src="https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png" alt="C" width="110">]()
 [<img src="https://icon-library.com/images/raspberry-pi-icon-png/raspberry-pi-icon-png-11.jpg" alt="RaspberryPi" width="130">]()
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Avr_logo.svg/1200px-Avr_logo.svg.png" alt="AVR" width="250">]()
+[<img src="https://iconarchive.com/download/i45763/tatice/operating-systems/Linux.ico" alt="Linux" width="190">]()
+
+
 
 
 <p align='center'>
