@@ -1,24 +1,12 @@
-## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Welcome<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">
 
-### Hello! I'm Brijesh Dhanani a Full Stack Developer from India.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%232DF7D3&width=500&height=100&lines=it's+Mahdi%F0%9F%91%8B%F0%9F%8F%BC;Python%F0%9F%90%8D;C%2B%2B%F0%9F%92%80;AI%F0%9F%A4%96;IoT%F0%9F%8C%90)](https://git.io/typing-svg)
 
-### Portfolio: https://brdhanani.github.io
-
-<a href="https://twitter.com/dhanani_brijesh">
-  <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/brijesh-dhanani-8a2061141">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/people/Brijesh-Dhanani/100010798357963">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/singer_brijesh_dhanani">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://youtu.be/X_zgw9GojSc">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+<p align="center">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/mahdi-ebrahimi-23381a203/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Linkedin" width="50/></a>  
+<a href="https://www.instagram.com//" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" width="50/></a>
+ <a href = "mahdiebi.exe@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" width="50/></a>
+</p>
 
 <br />
 <br />
@@ -26,8 +14,7 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
  
 
-## Languages and Tools <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24px">![68747470733a2f2f69636f6e2d6c6962726172792e636f6d2f696d616765732f7261737062657272792d70692d69636f6e2d706e672f7261737062657272792d70692d69636f6e2d706e672d31312e6a7067](https://user-images.githubusercontent.com/76206312/145665592-ea50bf13-6f06-4be3-a58a-2eeb85c04f9e.png)
-
+## Languages and Tools <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24px">!
 
 <br />
 
@@ -39,18 +26,13 @@
 
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdi-ebrahimi-per&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brijesh Dhanani's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdi-ebrahimi-per&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Mahdi Ebrahimi's Github Stats" width="450">
 </p>
+
 
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=mahdi-ebrahimi-per" alt="visitor badge"/>
 </p>
-
------
-
-Credits: [BRdhanani](https://github.com/brdhanani)
-
-Last Edited on: 29/03/2021
 
 <!---
 mahdi-ebrahimi-per/mahdi-ebrahimi-per is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
