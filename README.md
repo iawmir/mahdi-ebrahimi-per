@@ -22,7 +22,7 @@
 <br />
 <br />
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"  />
  
 
 ## Languages and Tools <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24px">!
