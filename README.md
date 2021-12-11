@@ -1,5 +1,7 @@
 ## Welcome<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">
 
+</br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=15C4DB&size=30&lines=it's+Mahdi%F0%9F%91%8B%F0%9F%8F%BC;Python%F0%9F%90%8D;C%2B%2B%F0%9F%92%80;AI%F0%9F%A4%96;IoT%F0%9F%8C%90)](https://git.io/typing-svg)
 
 <p align="center">
