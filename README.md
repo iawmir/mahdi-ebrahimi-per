@@ -2,7 +2,10 @@
 
 </br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=15C4DB&size=30&lines=it's+Mahdi%F0%9F%91%8B%F0%9F%8F%BC;Python%F0%9F%90%8D;C%2B%2B%F0%9F%92%80;AI%F0%9F%A4%96;IoT%F0%9F%8C%90)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=15C4DB&size=30&center=true&lines=it's+Mahdi%F0%9F%91%8B%F0%9F%8F%BC;Python%F0%9F%90%8D;C%2B%2B%F0%9F%92%80;AI%F0%9F%A4%96;IoT%F0%9F%8C%90"></a>
+</p>
+
 
 <p align="center">
 </a>
@@ -14,6 +17,7 @@
 <a href="https://www.instagram.com/mahdiebi.dev/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="insta_ovindu" width="60" /></a>
  <a href = "mailto:%20mahdiebi.exe@gmail.com"><img align="center" src="https://img.icons8.com/bubbles/50/000000/gmail.png" width="60" /></a>
 </p>
+
 
 <br />
 <br />
@@ -38,8 +42,9 @@
 
 
 <p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=mahdi-ebrahimi-per" alt="visitor badge"/>
+  <img src="https://profile-counter.glitch.me/{mahdi-ebrahimi-per}/count.svg" alt="visitor badge"/>
 </p>
+
 
 <!---
 mahdi-ebrahimi-per/mahdi-ebrahimi-per is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
